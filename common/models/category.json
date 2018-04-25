@@ -1,0 +1,41 @@
+{
+  "name": "category",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "processor": {
+      "type": "string"
+    },
+    "cooling": {
+      "type": "string"
+    },
+    "ram": {
+      "type": "string"
+    },
+    "motherboard": {
+      "type": "string"
+    },
+    "videocard": {
+      "type": "string"
+    },
+    "hard": {
+      "type": "string"
+    },
+    "power": {
+      "type": "string"
+    },
+    "os": {
+      "type": "string"
+    },
+    "case": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

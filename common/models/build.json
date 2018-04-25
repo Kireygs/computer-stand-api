@@ -1,0 +1,41 @@
+{
+  "name": "build",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "processor": {
+      "type": "object"
+    },
+    "cooling": {
+      "type": "object"
+    },
+    "ram": {
+      "type": "object"
+    },
+    "motherboard": {
+      "type": "object"
+    },
+    "videocard": {
+      "type": "object"
+    },
+    "hard": {
+      "type": "object"
+    },
+    "power": {
+      "type": "object"
+    },
+    "os": {
+      "type": "object"
+    },
+    "case": {
+      "type": "object"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

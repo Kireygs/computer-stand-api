@@ -1,0 +1,54 @@
+{ 
+    "_id" : ObjectId("5adf0b77186b96157b32137c"), 
+    "title" : "Deepcool THETA 15 PWM", 
+    "price" : "2790 тг", 
+    "categoryid" : "салқындатқыш"
+}
+{ 
+    "_id" : ObjectId("5adf0bf2d9f3db0eb85bffb2"), 
+    "title" : "Intel Core i3-3240 (3M Cache, 3.40 GHz)", 
+    "price" : "36 590 тг", 
+    "categoryid" : "процессор"
+}
+{ 
+    "_id" : ObjectId("5adf0c35d9f3db0eb85bffb7"), 
+    "title" : "Crucial 2GB DDR3L-1600 DIMM Ret", 
+    "price" : "4990 тг", 
+    "categoryid" : "жедел жад"
+}
+{ 
+    "_id" : ObjectId("5adf0c54d9f3db0eb85bffbc"), 
+    "title" : "ASRock J3060M BRASWELL REFRESH", 
+    "price" : "22 890 тг", 
+    "categoryid" : "аналық тақта"
+}
+{ 
+    "_id" : ObjectId("5adf0c72d9f3db0eb85bffc1"), 
+    "title" : "Asus GeForce GTX 1050TI Strix Gaming 4Gb 128bit GDDR5", 
+    "price" : "88 590 тг", 
+    "categoryid" : "видеокарта"
+}
+{ 
+    "_id" : ObjectId("5adf0c88d9f3db0eb85bffc6"), 
+    "title" : "HDD 3.5 1TB Seagate Barracuda", 
+    "price" : "44 090 тг", 
+    "categoryid" : "қатқыл тақта"
+}
+{ 
+    "_id" : ObjectId("5adf0cabd9f3db0eb85bffcb"), 
+    "title" : "FSP Q-Dion ATX 400W", 
+    "price" : "8790 тг", 
+    "categoryid" : "қуаттандыру блогы"
+}
+{ 
+    "_id" : ObjectId("5adf0cc4d9f3db0eb85bffd0"), 
+    "title" : "Windows 8", 
+    "price" : "34 000 тг", 
+    "categoryid" : "операциялық жүйе"
+}
+{ 
+    "_id" : ObjectId("5adf0cdbd9f3db0eb85bffd5"), 
+    "title" : "AeroCool AERO-800", 
+    "price" : "25 500 тг", 
+    "categoryid" : "кейс"
+}

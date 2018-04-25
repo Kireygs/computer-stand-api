@@ -1,0 +1,13 @@
+{ 
+    "_id" : ObjectId("5adf0b6b186b96157b32137b"), 
+    "processor" : "", 
+    "cooling" : "2", 
+    "ram" : "3", 
+    "motherboard" : "ASRock J3060M BRASWELL REFRESH", 
+    "videocard" : "Asus GeForce GTX 1050TI Strix Gaming 4Gb 128bit GDDR5", 
+    "hard" : "HDD 3.5 1TB Seagate Barracuda", 
+    "power" : "FSP Q-Dion ATX 400W", 
+    "os" : "Windows 8", 
+    "case" : "AeroCool AERO-800", 
+    "price" : "250 000 тг"
+}

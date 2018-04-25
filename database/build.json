@@ -1,0 +1,39 @@
+{ 
+    "_id" : ObjectId("5adefa574af69f144b376f93"), 
+    "processor" : {
+        "title" : "Intel Core i3-3240 (3M Cache, 3.40 GHz)", 
+        "price" : "36 590 тг"
+    }, 
+    "cooling" : {
+        "title" : "Deepcool THETA 15 PWM", 
+        "price" : "2790 тг"
+    }, 
+    "ram" : {
+        "title" : "Crucial 2GB DDR3L-1600 DIMM Ret", 
+        "price" : "4990 тг"
+    }, 
+    "motherboard" : {
+        "title" : "ASRock J3060M BRASWELL REFRESH", 
+        "price" : "22 890 тг"
+    }, 
+    "videocard" : {
+        "title" : "Asus GeForce GTX 1050TI Strix Gaming 4Gb 128bit GDDR5", 
+        "price" : "88 590 тг"
+    }, 
+    "hard" : {
+        "title" : "HDD 3.5 1TB Seagate Barracuda", 
+        "price" : "44 090 тг"
+    }, 
+    "power" : {
+        "title" : "FSP Q-Dion ATX 400W", 
+        "price" : "8790 тг"
+    }, 
+    "os" : {
+        "title" : "Windows 8", 
+        "price" : "34 000 тг"
+    }, 
+    "case" : {
+        "title" : "AeroCool AERO-800", 
+        "price" : "25 500 тг"
+    }
+}

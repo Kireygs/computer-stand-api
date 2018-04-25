@@ -1,0 +1,112 @@
+{ 
+    "_id" : ObjectId("5aaf96aa7cc1d8e141280fd3"), 
+    "title" : "Asus ROG GL553V (GL553VD-FY009)", 
+    "info" : "15,6` 1920x1080 | Intel Core i7 7700HQ | RAM 8 | HDD 1000 | nVidia GeForce GTX1050 | DOS | Салмағы 2.5 кг", 
+    "img" : "https://www.asus.com/uk/Notebooks/ROG-GL553VD/overview/websites/global/products/AnpBtRKze8FjApcm/img/desktop/3.png", 
+    "kind" : "Ойынға арналған", 
+    "price" : "329 990тг"
+}
+{ 
+    "_id" : ObjectId("5adec578d9f3db0eb85bfe38"), 
+    "title" : "Asus ROG G703V (G703VI-E5188T)", 
+    "info" : "17,3` 1920x1080 | Intel Core i7 7700HQ | RAM 16 | SSD 256 | HDD 1000 | nVidia GeForce GTX1080 | Windows 10 | Салмағы 4.7 кг\n", 
+    "img" : "https://images-na.ssl-images-amazon.com/images/I/41Amb93E2CL._SL500_AC_SS350_.jpg", 
+    "kind" : "Ойынға арналған", 
+    "price" : "1 049 990 тг"
+}
+{ 
+    "_id" : ObjectId("5adec616d9f3db0eb85bfe4b"), 
+    "title" : "Asus ROG G502V (GL502VM-FY243T)", 
+    "info" : "15.6` 1920x1080 | Intel Core i7 7700HQ | RAM 8 | HDD 1000+SSD 128 | nVidia GeForce GTX1060 6144 DDR5 | Windows 10 | Салмағы 2,2 кг", 
+    "img" : "https://www.asus.com/ru/ROG-Republic-Of-Gamers/ROG-GL502VM/websites/global/products/YYhtHaLOYRdg1y81/img/08/fg01.png", 
+    "kind" : "Ойынға арналған", 
+    "price" : "488 990 тг"
+}
+{ 
+    "_id" : ObjectId("5adec663d9f3db0eb85bfe5c"), 
+    "title" : "Asus ROG G502V, (GL502VM-FY165T)", 
+    "info" : "15,6` 1920x1080 | Intel Core i7 7700HQ | RAM 16 | HDD 1000 | SSD 256 | nVidia GeForce GTX1060 6096 | Windows 10 | Салмағы 2,24 кг", 
+    "img" : "https://www.asus.com/ru/ROG-Republic-Of-Gamers/ROG-GL502VM/websites/global/products/YYhtHaLOYRdg1y81/img/01/fg.png", 
+    "kind" : "Ойынға арналған", 
+    "price" : "549 990 тг"
+}
+{ 
+    "_id" : ObjectId("5adec6b5d9f3db0eb85bfe6b"), 
+    "title" : "Asus ROG G502V, (GL502VS-FY326T)", 
+    "info" : "15,6` 1920x1080 | Intel Core i7 7700HQ | RAM 8 | SSD 256 | nVidia GeForce GTX1070 8094 | Windows 10 | Салмағы 2,34 кг", 
+    "img" : "https://i1.rozetka.ua/goods/1844418/asus_rog_gl502vs_gz239t_images_1844418893.jpg", 
+    "kind" : "Ойынға арналған", 
+    "price" : "619 990 тг"
+}
+{ 
+    "_id" : ObjectId("5adec713d9f3db0eb85bfe7c"), 
+    "title" : "Asus ROG GL702V, (GL702VM-BA184T)", 
+    "info" : "17,3` 1920x1080 | Intel Core i7 7700HQ | RAM 16 | HDD 1000 | SSD 128 | nVidia GeForce GTX1060 6096 | Windows 10 | Салмағы 2,7 кг", 
+    "img" : "https://ozon-st.cdn.ngenix.net/multimedia/1022044645.jpg", 
+    "kind" : "Ойынға арналған", 
+    "price" : "579 990 тг"
+}
+{ 
+    "_id" : ObjectId("5adee145d9f3db0eb85bfea7"), 
+    "title" : "HP Stream 14-AX008UR (1MZ82EA)", 
+    "info" : "14` 1366x768 | Intel Celeron N3050 | RAM 4 | Flash 32 | Intel HD Graphics | Windows 10 | Салмағы 1.44 кг", 
+    "img" : "https://www.notebookcheck-ru.com/fileadmin/_processed_/csm_Stream14_Teaser_bc93160d9d.jpg", 
+    "kind" : "Қарапайым", 
+    "price" : "79 990 тг"
+}
+{ 
+    "_id" : ObjectId("5adee2a1d9f3db0eb85bfeb8"), 
+    "title" : "Neo Office (CDC N3050 1,60Ghz/4GB/500GB/DVDRW)", 
+    "info" : "Intel Celeron N3050 | RAM 4 | HDD 500 | Intel HD Graphics | DVD-RW", 
+    "img" : "https://static.technodom.kz/medias/41113-1s.jpg-Default-WorkingFormat-400Wx400HConversionFormat?context=bWFzdGVyfGltYWdlc3wxNDAwN3xpbWFnZS9qcGVnfGltYWdlcy9oM2MvaGFjLzg4NzA4MzcyNTYyMjIuanBnfDRhOTg1ZGMwMzVjZGE3MTY2YWZkZTIzMTA5YzdhMDE0MDliNmEwY2IyZTJiMmFkMTVjZTViYjRjYTU3OWE2NGM", 
+    "kind" : "Қарапайым", 
+    "price" : "64 990 тг"
+}
+{ 
+    "_id" : ObjectId("5adee307d9f3db0eb85bfec9"), 
+    "title" : "Neo Office (PDC G4400 3,30Ghz/4GB/500GB/DVDRW)", 
+    "info" : "Intel Pentium G4400 | RAM 4 | HDD 500 | DVD-RW", 
+    "img" : "https://static.technodom.kz/medias/41113-1s.jpg-Default-WorkingFormat-400Wx400HConversionFormat?context=bWFzdGVyfGltYWdlc3wxNDAwN3xpbWFnZS9qcGVnfGltYWdlcy9oM2MvaGFjLzg4NzA4MzcyNTYyMjIuanBnfDRhOTg1ZGMwMzVjZGE3MTY2YWZkZTIzMTA5YzdhMDE0MDliNmEwY2IyZTJiMmFkMTVjZTViYjRjYTU3OWE2NGM", 
+    "kind" : "Қарапайым", 
+    "price" : "93 990 тг"
+}
+{ 
+    "_id" : ObjectId("5adee348d9f3db0eb85bfee0"), 
+    "title" : "Neo Office (PDC G4560 3,50Ghz/4GB/500GB/DVDRW)", 
+    "info" : "Intel Pentium G4560 | RAM 4 | HDD 500 | Intel HD Graphics 610 | DVD-RW | DOS", 
+    "img" : "https://static.technodom.kz/medias/41113-1s.jpg-Default-WorkingFormat-400Wx400HConversionFormat?context=bWFzdGVyfGltYWdlc3wxNDAwN3xpbWFnZS9qcGVnfGltYWdlcy9oM2MvaGFjLzg4NzA4MzcyNTYyMjIuanBnfDRhOTg1ZGMwMzVjZGE3MTY2YWZkZTIzMTA5YzdhMDE0MDliNmEwY2IyZTJiMmFkMTVjZTViYjRjYTU3OWE2NGM", 
+    "kind" : "Қарапайым", 
+    "price" : " 97 990 тг"
+}
+{ 
+    "_id" : ObjectId("5adee394d9f3db0eb85bff07"), 
+    "title" : "Neo Office (Ci3 6100 2,70Ghz/4GB/120GB/HD530/DVD+RW)", 
+    "info" : "Intel Core i3 6100 | RAM 4 | SSD 120 | Intel HD Graphics 530 | DVDRW | DOS", 
+    "img" : "http://mezon.kz/images/prev/87a6237289ec3f74096182015d9b477d_s300x350.jpg", 
+    "price" : "117 990 тг", 
+    "kind" : "Жұмысқа арналған"
+}
+{ 
+    "_id" : ObjectId("5adee3d2d9f3db0eb85bff1c"), 
+    "title" : "Neo Graphics (PDC G3220 3,00Ghz/4GB/500GB/GT730 2GB/DVDRW)", 
+    "info" : "Intel Pentium G3220 | RAM 4 | HDD 500 | nVidia GeForce GT730 2GB | DVD-RW", 
+    "img" : "http://mezon.kz/images/prev/87a6237289ec3f74096182015d9b477d_s300x350.jpg", 
+    "kind" : "Жұмысқа арналған", 
+    "price" : "129 990 тг"
+}
+{ 
+    "_id" : ObjectId("5adee493d9f3db0eb85bff2d"), 
+    "title" : "Acer Aspire A315-21 (NX.GQ4ER.025)", 
+    "info" : "15,6` 1366x768 | AMD A4 9120 | RAM 4 | HDD 500 | AMD Radeon M520 2048 | Windows 10 | Салмағы 2,1 кг", 
+    "img" : "https://images.kz.prom.st/69441134_w0_h0_cid162629_pid48843735-5d2651e3.gif", 
+    "kind" : "Жұмысқа арналған", 
+    "price" : "141 990 тг"
+}
+{ 
+    "_id" : ObjectId("5adee4f9d9f3db0eb85bff3c"), 
+    "title" : "Asus X541N (X541NC-GQ093T)", 
+    "info" : "15,6` 1366x768 | Intel Pentium N4200 | RAM 4 | HDD 500 | nVidia GeForce GT810 2 Gb | Intel HD Graphics 505 | Windows 10 | Салмағы 2 кг", 
+    "img" : "https://www.notik.ru/img/catalog_img/53185/big/1_asusx541x541ncgq081t.jpg", 
+    "kind" : "Жұмысқа арналған", 
+    "price" : "144 990 тг"
+}
